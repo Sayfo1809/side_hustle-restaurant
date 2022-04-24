@@ -1,0 +1,41 @@
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10000;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5rem;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.16);
+
+  background-color: var(--color-white);
+}
+
+.nav .nav__brand {
+  font-family: var(--font-primary);
+  font-size: var(--heading-secondary);
+  font-weight: var(--font-bold);
+  color: var(--color-accent);
+}
+
+.nav .nav__logo {
+  color: var(--color-primary);
+}
+
+.nav .nav__items {
+  display: flex;
+  list-style: none;
+}
+
+.nav .nav__item:not(:last-child) {
+  margin-right: 2rem;
+}
+
+.nav .nav__link {
+  font-family: var(--font-secondary);
+  text-decoration: none;
+  color: var(--color-primary);
+}
