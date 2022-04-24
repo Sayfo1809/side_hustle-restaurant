@@ -4,7 +4,7 @@
 
 > To build a restaurant Website
 >
-> > This application should have the following features:
+> This application should have the following features:
 >
 > 1. Navbar (shown on all pages)
 > 2. Four(4) Routes - Home, About, Products, and Contact
