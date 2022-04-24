@@ -9,7 +9,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 2.5rem;
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.16);
+  box-shadow: var(--drop-shadow);
 
   background-color: var(--color-white);
 }
@@ -38,4 +38,12 @@
   font-family: var(--font-secondary);
   text-decoration: none;
   color: var(--color-primary);
+  padding-inline: 1rem;
+  padding-block: 2.5rem;
+}
+
+.nav .nav__link:active,
+.nav .nav__link:hover {
+  background-color: var(--color-primary);
+  color: var(--color-white);
 }

@@ -1,0 +1,13 @@
+.footer-nav__items {
+  display: flex;
+}
+
+.footer-nav__item:not(:last-child) {
+  margin-right: 2rem;
+  color: var(--color-white);
+}
+
+.footer-nav__link {
+  color: currentColor;
+  text-decoration: none;
+}

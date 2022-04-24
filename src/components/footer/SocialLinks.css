@@ -1,0 +1,13 @@
+.social-links {
+  margin-block: 2rem;
+  padding: 1.6rem;
+}
+
+.social-link {
+  font-size: 2.5rem;
+  color: currentColor;
+}
+
+.social-link:not(:last-child) {
+  margin-right: 2rem;
+}

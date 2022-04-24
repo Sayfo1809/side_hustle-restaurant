@@ -22,6 +22,10 @@
   --heading-secondary: 3.6rem;
   --text-body: 1.6rem;
   --text-buttons: 1.5rem;
+
+  /* UTILITIES */
+  --drop-shadow: 0 0.1rem 1rem rgba(0, 0, 0, 0.16);
+  --card-radius: 1rem;
 }
 
 * {
@@ -51,4 +55,8 @@ img {
   max-width: 100%;
   object-fit: cover;
   object-position: center;
+}
+
+ul {
+  list-style: none;
 }
