@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/side_hustle-restaurant/static/css/main.296b9c42.css",
+    "main.js": "/side_hustle-restaurant/static/js/main.1bdc1679.js",
+    "index.html": "/side_hustle-restaurant/index.html",
+    "main.296b9c42.css.map": "/side_hustle-restaurant/static/css/main.296b9c42.css.map",
+    "main.1bdc1679.js.map": "/side_hustle-restaurant/static/js/main.1bdc1679.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.296b9c42.css",
+    "static/js/main.1bdc1679.js"
+  ]
+}
