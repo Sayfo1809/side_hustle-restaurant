@@ -5,13 +5,22 @@ import "./About.css";
 
 const About = () => {
   return <div id="about">
-          <div className="about-text">
-            <h1>UPCOMING DEALS</h1>
-            <p>
-              Lorem Ipsum dolor sit amet consectetur adipisicing elit. Ipsa eum cum expedita. Voluptas ratione
-              beatae sunt incidunt, in delectus doloremque aliquid, iure tempora ad nobis.
-            </p>
-            <button> Read More </button>
+    <div className="about-text">
+      <h1>ABOUT US</h1>
+      <p>
+        Welcome to the World of Burger, <br />
+        We satisfy our customers cravings with joy. <br />
+        Our delicious varieties of tasty burger will leave you wanting for more<br />
+        We offer the best quality and customer services.<br />
+        COME HAVE A FEEL OF HEAVEN ON EARTH <br />
+        <button> Read More </button>
+        <br />
+        </p>
+      <h1>UPCOMING DEALS</h1>
+        <p>
+        Introducing the coupon offer to our distinguished customers.
+        </p>
+            <button>Claim Coupon </button>
           </div>
           <div className="about-image">
             <img src={aboutimage} alt=''/>
