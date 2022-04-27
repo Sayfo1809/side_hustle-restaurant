@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/side_hustle-restaurant/static/css/main.0db95ba8.css",
-    "main.js": "/side_hustle-restaurant/static/js/main.9198971e.js",
+    "main.js": "/side_hustle-restaurant/static/js/main.adc14666.js",
     "static/media/about.png": "/side_hustle-restaurant/static/media/about.5cfaf8a99d5231051570.png",
     "static/media/banner.png": "/side_hustle-restaurant/static/media/banner.192d127276189eb9c330.png",
     "static/media/footer.png": "/side_hustle-restaurant/static/media/footer.53806b7daa8d1ecfff9d.png",
@@ -9,10 +9,10 @@
     "static/media/s2.png": "/side_hustle-restaurant/static/media/s2.b0665d1810c1ae19dfa3.png",
     "index.html": "/side_hustle-restaurant/index.html",
     "main.0db95ba8.css.map": "/side_hustle-restaurant/static/css/main.0db95ba8.css.map",
-    "main.9198971e.js.map": "/side_hustle-restaurant/static/js/main.9198971e.js.map"
+    "main.adc14666.js.map": "/side_hustle-restaurant/static/js/main.adc14666.js.map"
   },
   "entrypoints": [
     "static/css/main.0db95ba8.css",
-    "static/js/main.9198971e.js"
+    "static/js/main.adc14666.js"
   ]
 }
