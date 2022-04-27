@@ -7,8 +7,6 @@
   color: var(--color-white);
   padding-inline: 2rem;
   padding-block: 1rem;
-
-  outline: 1-x solid red;
 }
 
 .button:hover {

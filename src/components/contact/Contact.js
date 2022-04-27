@@ -1,18 +1,20 @@
 import React from "react";
 
 import "./Contact.css";
+import ContactForm from "./ContactForm";
 
 const Contact = () => {
-  return <div id="contact">
-            <h1>BOOK YOUR MEAL</h1>
-            <form>
-              <input type="text" placeholder="Full Name"/>
-              <input type="email" placeholder="Enter Your E-mail"/>
-              <textarea placeholder="Write Here...."></textarea>
-              <input type="submit" value="BOOK"/>
-            </form>
+  const handleFormSubmit = (e) => {
+    e.preventDefault();
 
-  </div>;
+    // LOGIC FOR POST API GO HERE
+  };
+
+  return (
+    <div id="contact">
+      <ContactForm onSubmit={handleFormSubmit} />
+    </div>
+  );
 };
 
 export default Contact;
