@@ -6,7 +6,6 @@ import ContactForm from "./ContactForm";
 const Contact = () => {
   const handleFormSubmit = (e) => {
     e.preventDefault();
-
     // LOGIC FOR POST API GO HERE
   };
 

@@ -8,11 +8,16 @@ const About = () => {
   return (
     <div id="about">
       <div className="about-text">
-        <h2 className="heading-secondary">UPCOMING DEALS</h2>
+        <h2 className="heading-secondary">ABOUT US</h2>
         <p>
-          Lorem Ipsum dolor sit amet consectetur adipisicing elit. Ipsa eum cum
-          expedita. Voluptas ratione beatae sunt incidunt, in delectus
-          doloremque aliquid, iure tempora ad nobis.
+          Welcome to the World of Burger, <br />
+          We satisfy our customers cravings with joy. <br />
+          Our delicious varieties of tasty burger will leave you wanting for
+          more
+          <br />
+          We offer the best quality and customer services.
+          <br />
+          COME HAVE A FEEL OF HEAVEN ON EARTH <br />
         </p>
         <Button btnType="cta">Read More</Button>
       </div>
