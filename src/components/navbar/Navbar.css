@@ -4,13 +4,11 @@
   left: 0;
   width: 100%;
   z-index: 10000;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 2.5rem;
   box-shadow: var(--drop-shadow);
-
   background-color: var(--color-white);
 }
 
@@ -46,4 +44,8 @@
 .nav .nav__link:hover {
   background-color: var(--color-primary);
   color: var(--color-white);
+}
+
+.logo{
+  width: 120px;
 }
