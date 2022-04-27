@@ -1,0 +1,27 @@
+.button {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+  text-decoration: none;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  padding-inline: 2rem;
+  padding-block: 1rem;
+
+  outline: 1-x solid red;
+}
+
+.button:hover {
+  transform: scale(0.98);
+  transition: 300ms;
+}
+
+.btn--cta {
+  background-color: var(--color-white);
+  color: var(--color-accent);
+  box-shadow: var(--drop-shadow);
+}
+
+.btn__icon {
+  margin-left: 1rem;
+}

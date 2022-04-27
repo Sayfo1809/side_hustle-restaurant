@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../UIElements/Button";
 import FooterLinks from "./FooterLinks";
 
 import "./FooterNav.css";
