@@ -13,3 +13,7 @@
 > 5. The product page displays the stuffs the restaurant sell (image, price and amount)
 > 6. The Contact page displays an address, a form to contact the business and any other necessary details
 > 7. A footer
+
+## Authors
+
+M Mamphoke - mphomamphoke@outlook.com
